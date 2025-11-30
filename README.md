@@ -1,0 +1,53 @@
+🎮👑 RAMBO 4.1 - PUBG Mobile Optimizasyon Aracı 👑
+📱 GFX (Grafik Ayarları) Sayfası
+🎯 Grafik Kalitesi Seçenekleri:
+Super Smooth - En düşük grafik, maksimum FPS
+Akıcı (Smooth) - Düşük grafik, yüksek performans
+Dengeli (Balanced) - Orta seviye grafik ve performans
+HD Plus - Yüksek kalite grafik
+HDR - En yüksek kalite grafik
+Ultra HDR - Maksimum görsel kalite
+🚀 FPS (Kare Hızı) Ayarları:
+Low (30 FPS)
+Medium (40 FPS)
+High (60 FPS)
+Ultra (90 FPS)
+Extreme (120 FPS)
+Extreme+ (144 FPS)
+Ultra Extreme (240 FPS)
+🎨 Grafik Stilleri:
+Classic - Klasik PUBG görünümü
+Colorful - Renkli ve canlı
+Realistic - Gerçekçi görünüm
+Soft - Yumuşak renkler
+Movie - Sinematik görünüm
+🌑 Gölge Ayarları:
+Enable Shadow - Gölgeleri aç
+Disable Shadow - Gölgeleri kapat (daha iyi FPS)  EXTRA ÖZELLİKLER🔥
+
+🎮👑 RAMBO 4.1 - PUBG Mobile Optimization Tool 👑
+📱 GFX (Graphics Settings) Page
+🎯 Graphics Quality Options:
+Super Smooth - Lowest graphics, maximum FPS
+Smooth - Low graphics, high performance
+Balanced - Medium graphics and performance
+HD Plus - High quality graphics
+HDR - Highest quality graphics
+Ultra HDR - Maximum visual quality
+🚀 FPS (Frame Rate) Settings:
+Low (30 FPS)
+Medium (40 FPS)
+High (60 FPS)
+Ultra (90 FPS)
+Extreme (120 FPS)
+Extreme+ (144 FPS)
+Ultra Extreme (240 FPS)
+🎨 Graphics Styles:
+Classic - Classic PUBG look
+Colorful - Colorful and vibrant
+Realistic - Realistic look
+Soft - Soft colors
+Movie - Cinematic look
+🌑 Shadow Settings:
+Enable Shadow - Turn on shadows
+Disable Shadow - Turn off shadows (better FPS) EXTRA FEATURES🔥
