@@ -1,4 +1,4 @@
-🎮👑 RAMBO 4.1 - PUBG Mobile Optimizasyon Aracı 👑
+🎮👑 RAMBO 4.2 - PUBG Mobile Optimizasyon Aracı 👑
 📱 GFX (Grafik Ayarları) Sayfası
 🎯 Grafik Kalitesi Seçenekleri:
 Super Smooth - En düşük grafik, maksimum FPS
@@ -31,7 +31,7 @@ Disable Shadow - Gölgeleri kapat (daha iyi FPS)  EXTRA ÖZELLİKLER🔥
 <img width="1273" height="710" alt="image" src="https://github.com/user-attachments/assets/52fbfb8c-724e-4a01-ae28-3d8d4a8b9a3f" />
 
 
-🎮👑 RAMBO 4.1 - PUBG Mobile Optimization Tool 👑
+🎮👑 RAMBO 4.2 - PUBG Mobile Optimization Tool 👑
 📱 GFX (Graphics Settings) Page
 🎯 Graphics Quality Options:
 Super Smooth - Lowest graphics, maximum FPS
