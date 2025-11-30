@@ -24,6 +24,11 @@ Movie - Sinematik görünüm
 🌑 Gölge Ayarları:
 Enable Shadow - Gölgeleri aç
 Disable Shadow - Gölgeleri kapat (daha iyi FPS)  EXTRA ÖZELLİKLER🔥
+<img width="1259" height="708" alt="image" src="https://github.com/user-attachments/assets/d3383578-5ec7-4912-b2e6-13243a1da816" />
+<img width="1258" height="681" alt="image" src="https://github.com/user-attachments/assets/4339a261-a115-4883-a553-906c8d2e5056" />
+<img width="1271" height="661" alt="image" src="https://github.com/user-attachments/assets/23d0f8d8-17e7-4912-9ac4-4b0a865de417" />
+<img width="1266" height="718" alt="image" src="https://github.com/user-attachments/assets/a151cab5-4eb6-4f62-aa64-d2238ffeb154" />
+<img width="1273" height="710" alt="image" src="https://github.com/user-attachments/assets/52fbfb8c-724e-4a01-ae28-3d8d4a8b9a3f" />
 
 🎮👑 RAMBO 4.1 - PUBG Mobile Optimization Tool 👑
 📱 GFX (Graphics Settings) Page
