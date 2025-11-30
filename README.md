@@ -30,6 +30,7 @@ Disable Shadow - Gölgeleri kapat (daha iyi FPS)  EXTRA ÖZELLİKLER🔥
 <img width="1266" height="718" alt="image" src="https://github.com/user-attachments/assets/a151cab5-4eb6-4f62-aa64-d2238ffeb154" />
 <img width="1273" height="710" alt="image" src="https://github.com/user-attachments/assets/52fbfb8c-724e-4a01-ae28-3d8d4a8b9a3f" />
 
+
 🎮👑 RAMBO 4.1 - PUBG Mobile Optimization Tool 👑
 📱 GFX (Graphics Settings) Page
 🎯 Graphics Quality Options:
